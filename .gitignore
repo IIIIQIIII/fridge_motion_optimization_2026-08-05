@@ -1,0 +1,12 @@
+.DS_Store
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Large generated previews. Keep compact MP4 files and keyframe PNGs.
+outputs/*.gif
+
+# Local logs and scratch files.
+*.log
+tmp/
+work/

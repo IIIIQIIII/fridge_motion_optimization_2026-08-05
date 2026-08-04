@@ -1,0 +1,67 @@
+[
+  {
+    "frame": 0,
+    "selected_thumb_joint_pos": [
+      0.12529003620147705,
+      0.7042914840071844,
+      1.4609748125076294,
+      0.7216115022876004
+    ],
+    "selected_force_n": 64.82259368896484,
+    "selected_tip_distance_m": 0.029604993760585785,
+    "candidate_count": 131,
+    "contact_candidates": 42
+  },
+  {
+    "frame": 1,
+    "selected_thumb_joint_pos": [
+      0.12529003620147705,
+      0.5489363134448566,
+      1.2849499334659489,
+      1.0971398087342428
+    ],
+    "selected_force_n": 67.55067443847656,
+    "selected_tip_distance_m": 0.035694532096385956,
+    "candidate_count": 131,
+    "contact_candidates": 35
+  },
+  {
+    "frame": 2,
+    "selected_thumb_joint_pos": [
+      1.178107336898215,
+      0.034767933986613125,
+      1.2273945985666233,
+      1.2131686945467537
+    ],
+    "selected_force_n": 53.96648406982422,
+    "selected_tip_distance_m": 0.037864793092012405,
+    "candidate_count": 131,
+    "contact_candidates": 32
+  },
+  {
+    "frame": 3,
+    "selected_thumb_joint_pos": [
+      0.7087903631362048,
+      -0.08514493703842163,
+      1.3601131617762434,
+      1.4147062032986724
+    ],
+    "selected_force_n": 77.1581039428711,
+    "selected_tip_distance_m": 0.034409575164318085,
+    "candidate_count": 131,
+    "contact_candidates": 25
+  },
+  {
+    "frame": 4,
+    "selected_thumb_joint_pos": [
+      0.4300797209072825,
+      -0.08514493703842163,
+      1.4609748125076294,
+      0.3473869427923215
+    ],
+    "selected_force_n": 51.78390884399414,
+    "selected_tip_distance_m": 0.019481519237160683,
+    "candidate_count": 131,
+    "contact_candidates": 32
+  }
+]

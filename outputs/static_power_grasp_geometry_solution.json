@@ -1,0 +1,341 @@
+{
+  "center_in_palm_m": [
+    0.02042184924870798,
+    0.012417515651792924,
+    0.08184357104505428
+  ],
+  "handle_axis_in_palm": [
+    -0.01704989935304903,
+    0.984534383806927,
+    -0.17435982345129095
+  ],
+  "joint_positions_rad": {
+    "right_finger1_joint1": 0.6625744045713923,
+    "right_finger1_joint2": 0.10639945025116285,
+    "right_finger1_joint3": 1.3264787947075505,
+    "right_finger1_joint4": 1.38912540518321,
+    "right_finger2_joint1": 1.4969241314070525,
+    "right_finger2_joint2": 0.0,
+    "right_finger2_joint3": 1.4895849139440904,
+    "right_finger2_joint4": 1.028968965964995,
+    "right_finger3_joint1": 1.3546170287373367,
+    "right_finger3_joint2": 0.0,
+    "right_finger3_joint3": 1.3673084909635964,
+    "right_finger3_joint4": 0.9790280806538318,
+    "right_finger4_joint1": 0.9869613370502421,
+    "right_finger4_joint2": 0.0,
+    "right_finger4_joint3": 1.5,
+    "right_finger4_joint4": 1.052760057083771,
+    "right_finger5_joint1": 0.45,
+    "right_finger5_joint2": 0.0,
+    "right_finger5_joint3": 1.5,
+    "right_finger5_joint4": 1.318660372590628
+  },
+  "group_metrics": {
+    "palm": {
+      "patch_gap_m": 0.005146713919407246,
+      "minimum_surface_distance_m": 0.005034656207291101,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        -0.9972991232233166,
+        -0.029205735660940053,
+        -0.06739053214293167
+      ]
+    },
+    "thumb": {
+      "patch_gap_m": 1.937594334178114e-05,
+      "minimum_surface_distance_m": 2.792116069599837e-10,
+      "max_penetration_m": 3.2564763340211036e-05,
+      "contact_direction": [
+        0.7272321708116434,
+        -0.1074659495267327,
+        -0.6779265737739615
+      ]
+    },
+    "finger2": {
+      "patch_gap_m": 0.0007354165343286906,
+      "minimum_surface_distance_m": 3.280440787143367e-05,
+      "max_penetration_m": 3.280440787143367e-05,
+      "contact_direction": [
+        -0.2920046297128219,
+        0.16187958919953246,
+        0.942617788303864
+      ]
+    },
+    "finger3": {
+      "patch_gap_m": 0.0004156846923316293,
+      "minimum_surface_distance_m": 2.109126540835761e-05,
+      "max_penetration_m": 7.089906415312479e-05,
+      "contact_direction": [
+        -0.05127108366710277,
+        0.17329485173733522,
+        0.9835345293079119
+      ]
+    },
+    "finger4": {
+      "patch_gap_m": 0.0007675498484003067,
+      "minimum_surface_distance_m": 6.317943829808187e-05,
+      "max_penetration_m": 6.893476055371342e-05,
+      "contact_direction": [
+        -0.670240383058176,
+        0.11814950565740404,
+        0.7326790042241831
+      ]
+    },
+    "finger5": {
+      "patch_gap_m": 0.0003264096620982702,
+      "minimum_surface_distance_m": 7.764639967447473e-07,
+      "max_penetration_m": 8.519111828375267e-05,
+      "contact_direction": [
+        -0.829401475596003,
+        0.083463019475991,
+        0.5523831248862723
+      ]
+    }
+  },
+  "link_metrics": {
+    "right_palm_link": {
+      "patch_gap_m": 0.005146713919407246,
+      "minimum_surface_distance_m": 0.005034656207291101,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        -0.9972991232233166,
+        -0.029205735660940053,
+        -0.06739053214293167
+      ]
+    },
+    "right_finger1_link1": {
+      "patch_gap_m": 0.022600162839793773,
+      "minimum_surface_distance_m": 0.022572326581689853,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        0.044612274909035216,
+        -0.1734624107971714,
+        -0.9838295263753136
+      ]
+    },
+    "right_finger1_link2": {
+      "patch_gap_m": 7.008871495192475e-05,
+      "minimum_surface_distance_m": 2.792116069599837e-10,
+      "max_penetration_m": 1.870250485683754e-05,
+      "contact_direction": [
+        0.7272321708116434,
+        -0.1074659495267327,
+        -0.6779265737739615
+      ]
+    },
+    "right_finger1_link3": {
+      "patch_gap_m": 3.960224101518074e-05,
+      "minimum_surface_distance_m": 1.0959272650224935e-05,
+      "max_penetration_m": 3.2564763340211036e-05,
+      "contact_direction": [
+        0.8203120996949608,
+        -0.08592991966534407,
+        -0.5654238304142764
+      ]
+    },
+    "right_finger1_link4": {
+      "patch_gap_m": 0.006750276058044557,
+      "minimum_surface_distance_m": 0.006403237187852127,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        0.9552408781519827,
+        -0.03547040790725331,
+        -0.29369493504369776
+      ]
+    },
+    "right_finger2_link1": {
+      "patch_gap_m": 0.009788293043208014,
+      "minimum_surface_distance_m": 0.009457891860323793,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        -0.8423081760978934,
+        0.07981629549794489,
+        0.5330537453687245
+      ]
+    },
+    "right_finger2_link2": {
+      "patch_gap_m": 0.0007354165343286906,
+      "minimum_surface_distance_m": 3.280440787143367e-05,
+      "max_penetration_m": 3.280440787143367e-05,
+      "contact_direction": [
+        -0.2920046297128219,
+        0.16187958919953246,
+        0.942617788303864
+      ]
+    },
+    "right_finger2_link3": {
+      "patch_gap_m": 0.004803518255060032,
+      "minimum_surface_distance_m": 0.004664683504243932,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        0.9715666404144907,
+        0.057500985339293265,
+        0.22967781764617665
+      ]
+    },
+    "right_finger2_link4": {
+      "patch_gap_m": 0.005176761909255363,
+      "minimum_surface_distance_m": 0.005091278386834023,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        0.7688083071146049,
+        -0.09858314022146629,
+        -0.6318347500538809
+      ]
+    },
+    "right_finger3_link1": {
+      "patch_gap_m": 0.01221512558693654,
+      "minimum_surface_distance_m": 0.012002372812010461,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        -0.9613191531087741,
+        0.03180536886381426,
+        0.2735944158378713
+      ]
+    },
+    "right_finger3_link2": {
+      "patch_gap_m": 0.0004156846923316293,
+      "minimum_surface_distance_m": 2.109126540835761e-05,
+      "max_penetration_m": 7.089906415312479e-05,
+      "contact_direction": [
+        -0.05127108366710277,
+        0.17329485173733522,
+        0.9835345293079119
+      ]
+    },
+    "right_finger3_link3": {
+      "patch_gap_m": 0.004808366402934479,
+      "minimum_surface_distance_m": 0.004775081177172473,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        0.8891506956069073,
+        0.09468718283479657,
+        0.4477112662292102
+      ]
+    },
+    "right_finger3_link4": {
+      "patch_gap_m": 0.00747777001380403,
+      "minimum_surface_distance_m": 0.007465244325993934,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        0.8935297610866743,
+        -0.06325119672210887,
+        -0.44452654832485755
+      ]
+    },
+    "right_finger4_link1": {
+      "patch_gap_m": 0.009353851369015254,
+      "minimum_surface_distance_m": 0.009121651551361987,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        -0.999555837413541,
+        -0.012520630999059094,
+        0.027043699671089657
+      ]
+    },
+    "right_finger4_link2": {
+      "patch_gap_m": 0.0007675498484003067,
+      "minimum_surface_distance_m": 6.317943829808187e-05,
+      "max_penetration_m": 6.893476055371342e-05,
+      "contact_direction": [
+        -0.670240383058176,
+        0.11814950565740404,
+        0.7326790042241831
+      ]
+    },
+    "right_finger4_link3": {
+      "patch_gap_m": 0.0066538672142504385,
+      "minimum_surface_distance_m": 0.006556394802501654,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        0.7070497688205574,
+        0.1351730926049821,
+        0.6941245273338216
+      ]
+    },
+    "right_finger4_link4": {
+      "patch_gap_m": 0.005704384322780367,
+      "minimum_surface_distance_m": 0.005609307771980288,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        0.9998238543526965,
+        0.01541969416905997,
+        -0.0107001541601438
+      ]
+    },
+    "right_finger5_link1": {
+      "patch_gap_m": 0.009034561840139425,
+      "minimum_surface_distance_m": 0.008827760810358591,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        -0.9031820107642631,
+        -0.08997341086368871,
+        -0.4197225759586637
+      ]
+    },
+    "right_finger5_link2": {
+      "patch_gap_m": 0.0003264096620982702,
+      "minimum_surface_distance_m": 7.764639967447473e-07,
+      "max_penetration_m": 8.519111828375267e-05,
+      "contact_direction": [
+        -0.829401475596003,
+        0.083463019475991,
+        0.5523831248862723
+      ]
+    },
+    "right_finger5_link3": {
+      "patch_gap_m": 0.006151552421856661,
+      "minimum_surface_distance_m": 0.006085835179830039,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        0.2689935921855126,
+        0.172472469280492,
+        0.947573582738261
+      ]
+    },
+    "right_finger5_link4": {
+      "patch_gap_m": 0.004431386151442799,
+      "minimum_surface_distance_m": 0.004270713475066816,
+      "max_penetration_m": 0.0,
+      "contact_direction": [
+        0.7887755233874483,
+        0.12041005206768647,
+        0.6027724222838284
+      ]
+    }
+  },
+  "required_contact_links": [
+    "right_finger1_link2",
+    "right_finger1_link3",
+    "right_finger2_link2",
+    "right_finger3_link2",
+    "right_finger4_link2",
+    "right_finger5_link2"
+  ],
+  "required_near_links": [
+    "right_finger2_link3",
+    "right_finger3_link3",
+    "right_finger4_link3",
+    "right_finger5_link3"
+  ],
+  "enclosure_angle_deg": 227.43364914992657,
+  "optimizer_success": false,
+  "optimizer_message": "Maximum number of iterations has been exceeded.",
+  "objective": 6.0560138337643314,
+  "handle_radius_m": 0.01206,
+  "handle_half_length_m": 0.105,
+  "measured_handle_axis_center_w": [
+    1.2731597081475636,
+    0.271620931224007,
+    0.8758843
+  ],
+  "acceptance": {
+    "maximum_palm_gap_m": 0.006,
+    "maximum_contact_link_gap_m": 0.002,
+    "maximum_near_link_gap_m": 0.007,
+    "maximum_penetration_m": 0.001,
+    "minimum_enclosure_angle_deg": 190.0
+  },
+  "accepted": true
+}

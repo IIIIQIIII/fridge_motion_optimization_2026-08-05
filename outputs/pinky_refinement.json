@@ -1,0 +1,72 @@
+[
+  {
+    "frame": 0,
+    "finger": "pinky",
+    "selected_joint_pos": [
+      0.5622845263632924,
+      0.3301782440997724,
+      0.3059283320134555,
+      0.8775822383534995
+    ],
+    "selected_force_n": 34.71668243408203,
+    "selected_tip_distance_m": 0.03648054972290993,
+    "candidate_count": 111,
+    "contact_candidates": 111
+  },
+  {
+    "frame": 1,
+    "finger": "pinky",
+    "selected_joint_pos": [
+      0.6447380135156673,
+      0.18784767934478885,
+      0.5983455522374381,
+      0.7256679413792223
+    ],
+    "selected_force_n": 39.368629455566406,
+    "selected_tip_distance_m": 0.029402349144220352,
+    "candidate_count": 111,
+    "contact_candidates": 111
+  },
+  {
+    "frame": 2,
+    "finger": "pinky",
+    "selected_joint_pos": [
+      0.6146423128721011,
+      0.3330000042915344,
+      0.9634482111298586,
+      0.516160833984137
+    ],
+    "selected_force_n": 25.542329788208008,
+    "selected_tip_distance_m": 0.01866990327835083,
+    "candidate_count": 111,
+    "contact_candidates": 111
+  },
+  {
+    "frame": 3,
+    "finger": "pinky",
+    "selected_joint_pos": [
+      0.901788325158765,
+      0.10508275666670958,
+      0.3614247879511805,
+      0.608287897054632
+    ],
+    "selected_force_n": 23.527299880981445,
+    "selected_tip_distance_m": 0.03526588901877403,
+    "candidate_count": 111,
+    "contact_candidates": 111
+  },
+  {
+    "frame": 4,
+    "finger": "pinky",
+    "selected_joint_pos": [
+      1.3487135817317504,
+      0.1522423859362519,
+      0.1288596814555885,
+      0.21456832428078218
+    ],
+    "selected_force_n": 27.467330932617188,
+    "selected_tip_distance_m": 0.03855760768055916,
+    "candidate_count": 111,
+    "contact_candidates": 111
+  }
+]
